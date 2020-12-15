@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Hi there! I'm Danielle (she/her)
-🔭 I’m currently working at Scotiabank 
-🌱 I’m currently learning advanced Pythona and System Design
-📫 How to reach me at erin.abila99@gmail.com
+🔭 I’m currently working at Scotiabank   
+🌱 I’m currently learning advanced Pythona and System Design  
+📫 How to reach me at erin.abila99@gmail.com  
