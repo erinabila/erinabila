@@ -2,9 +2,7 @@
 
 <!--
 **erinabila/erinabila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi there! I'm Danielle (she/her)
+🔭 I’m currently working at Scotiabank 
+🌱 I’m currently learning advanced Pythona and System Design
+📫 How to reach me at erin.abila99@gmail.com
