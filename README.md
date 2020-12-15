@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🔭 I’m currently working at Scotiabank   
-🌱 I’m currently learning advanced Pythona and System Design  
+🌱 I’m currently learning Python in Data Science and System Design  
 📫 How to reach me at erin.abila99@gmail.com  
