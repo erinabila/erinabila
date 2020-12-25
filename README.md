@@ -1,4 +1,4 @@
-### Hi there! I'm Danielle 👋  
+### Hi there! I'm Danielle (she/her) 👋  
 
 <!--
 **erinabila/erinabila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
