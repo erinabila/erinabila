@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🔭 My past internships both as a Software Engineer Intern at Publicis Sapient and Scotiabank  
-🌱 I’m currently learning Python in Data Science and System Design  
+🌱 I’m currently learning Python in Databases and in Network Protocols
 🤔 My experience involves Back-end and Data Engineering  
 📫 How to reach me at erin.abila99@gmail.com  
