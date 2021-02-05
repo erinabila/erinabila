@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+⚡ Incoming Software Engineer Intern at SurveyMonkey 
 🔭 My past internships were both as a Software Engineer Intern at Publicis Sapient and Scotiabank  
 🌱 I’m currently learning Python in <code>Databases</code> and in <code>Computer Network Protocols</code>    
 🤔 My experience involves Back-end and Data Engineering        
