@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 My past internships were both as a Software Engineer Intern at Scotiabank and Publicis Sapient
+🔭 My past internships were both as a Software Engineer Intern at Scotiabank and Publicis Sapient  
 🌱 I’m currently learning Python in <code>Databases</code> and in <code>Computer Network Protocols</code>    
 🤔 My experience involves Back-end and Data Engineering           
 📫 How to reach me at erin.abila99@gmail.com             
