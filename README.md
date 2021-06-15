@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ⚡ Computer Science student at York University, graduating April 2022  
-🌱 I’ll be interning at SurveMonkey as a Software Engineer Intern this summer  
+🌱 I am interning at SurveyMonkey as a Software Engineer Intern this summer  
 🔭 My past internships were both as a Software Engineer Intern at Scotiabank and Publicis Sapient  
 🤔 My experience involves Back-end and Data Engineering         
-📫 How to reach me at erin.abila99@gmail.com            
+📫 How to reach me at erin.abila99@gmail.com              
