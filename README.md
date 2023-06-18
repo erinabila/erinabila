@@ -12,7 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-⚡ Computer Science student at York University, graduating April 2022  
+⚡ Computer Science student at York University, Graduated Fall 2023
+🔭 Currently a Software Developer at IBM 
 🌱 My past internships were all as a Software Engineer Intern at SurveyMonkey, Scotiabank, and Publicis Sapient  
 🤔 My experience involves Front-end, Back-end, and Data Engineering         
 📫 How to reach me at erin.abila99@gmail.com              
