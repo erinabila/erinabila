@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-⚡ Computer Science student at York University, Graduated Fall 2022
+⚡ Computer Science student at York University, Graduated Fall 2022  
 🔭 Currently a Software Developer at IBM  
 🌱 Past experience as a Software Engineer Intern at SurveyMonkey, Scotiabank, and Publicis Sapient  
 🤔 My experience involves Front-end, Back-end, and Data Engineering         
