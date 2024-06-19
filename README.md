@@ -12,8 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 Currently a Software Developer at IBM  
+🔭 Currently a Software Engineer II at Intuit
 ⚡ Computer Science student at York University, Graduated Fall 2022  
-🌱 Past experience as a Software Engineer Intern at SurveyMonkey, Scotiabank, and Publicis Sapient  
 🤔 My experience involves Front-end, Back-end, and Data Engineering         
 📫 How to reach me at erin.abila99@gmail.com              
