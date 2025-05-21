@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 Currently a Software Engineer II at Intuit  
-⚡ Computer Science student graduated from York University         
-🤔 My experience involves Front-end, Back-end, and Data Engineering         
+🔭 Previously a Software Engineer II at Intuit  
+⚡ Computer Science graduate from York University         
+🤔 My experience involves Full Stack Engineering with a preference for backend development
 📫 How to reach me at erin.abila99@gmail.com              
