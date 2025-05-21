@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 -->
 🔭 Previously a Software Engineer II at Intuit  
 ⚡ Computer Science graduate from York University         
-🤔 My experience involves Full Stack Engineering with a preference for backend development
+🤔 My experience involves Full Stack Engineering with a preference for backend development    
 📫 How to reach me at erin.abila99@gmail.com              
